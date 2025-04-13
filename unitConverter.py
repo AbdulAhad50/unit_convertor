@@ -58,8 +58,7 @@ st.markdown(
             }
                
         </style>
-    """,
-    unsafe_allow_html=true
+    """,unsafe_allow_html=true
 )
 
 st.markdown("<h1>Unit Converter using python & streamlit</h1>", unsafe_allow_html= true)
